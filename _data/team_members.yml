@@ -1,0 +1,36 @@
+- name: Karen Lara, Msc
+  photo: andrea.jpg
+  info: Head of Biomedical Engineering Department at Universidad Galileo
+  email: andrealh@galileo.edu
+  number_educ: 1
+  education1: 
+
+- name: Michaelle Pérez
+  photo: michaelle.png
+  info: Math Department and Biomedical Engineering Professor
+  email: mperez@galileo.edu 
+  number_educ: 1
+  education1: Born in Mixco, Guatemala of Quiche descent. He receives primary and secondary education in public institutes, and at the age of 14 he moves to study engineering at the Galileo University with support of FISICC authorities. He participated in various international mathematics competitions (IMO, OIM) and later became a coach of the national mathematics team for 5 years. He has worked as a professor of mathematics and computer science for 15 years, while working as a freelance developer and consultant in software development and data analysis. His main interests are education, artificial intelligence, neuroscience, and mathematics.
+
+
+- name: Iván Grijalva
+  photo: ivan.jpg
+  info: Applied Math Department, Galileo University
+  email: alexanderj@galileo.edu
+  number_educ: 1
+  education1: I studied computer science at Galileo University. Along with my CS courses y studied abstract algebra, topology, analysis, and differential geometry but ultimately my primary interests are deep learning, blockchain, and high-performance computing. I’m interested in how the algorithms that perform well in AI can be explained mathematically and how this can help to improve all the current techniques. I’m also interested in Information Theory & Data Science.
+  
+
+- name: David Machorro
+  photo: david.jpeg
+  info: Computer Science Engineering student at Universidad Galileo
+  email: Bastiaans@Physics.LeidenUniv.nl
+  number_educ: 1
+  education1: I am a Computer Science Engineering student at Universidad Galileo, Guatemala. I have worked as a teaching assistant in courses from the Applied Mathematics and Computer Science departments at Universidad Galileo. I am mainly interested in mathematics, the applications of artificial intelligence in different fields such as medical image analysis, and computer science topics of a mathematical nature like computability and computational complexity.
+
+- name: José Morales
+  photo: jose.jpg
+  info: Intelligent Automation developer
+  email: niu@physics.leidenuniv.nl
+  number_educ: 1
+  education1: Currently working as an Intelligent Automation developer, worked as a teaching assistant in the Applied Mathematics department in Galileo University. Interested in medical hardware and sofware, medical equipment design, and image processing.
