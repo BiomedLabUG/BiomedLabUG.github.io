@@ -1,7 +1,22 @@
 - title: "Deep learning in spatiotemporal cardiac imaging: A review of methodologies and clinical usability"
   image: compinBiology.jpg
-  description: Why is there so much variation in TBG devices? And are open devices more disordered than encapsulated ones? We introduce a new method to continuously map inhomogeneities of a moiré lattice and apply it to open-device TBG to show that twist angle variation is small over areas of hundreds of nm.
-  authors: Karen AndreaLara Hernandez, Theresa Rienmüller, Daniela Baumgartner, ChristianBaumgartner
+  description: The use of different cardiac imaging modalities such as MRI, CT or ultrasound enables the visualization and
+interpretation of altered morphological structures and function of the heart. In recent years, there has been an
+increasing interest in AI and deep learning that take into account spatial and temporal information in medical
+image analysis. In particular, deep learning tools using temporal information in image processing have not yet
+found their way into daily clinical practice, despite its presumed high diagnostic and prognostic value. This
+review aims to synthesize the most relevant deep learning methods and discuss their clinical usability in dynamic
+cardiac imaging using for example the complete spatiotemporal image information of the heart cycle. Selected
+articles were categorized according to the following indicators: clinical applications, quality of datasets, preprocessing
+and annotation, learning methods and training strategy, and test performance. Clinical usability was
+evaluated based on these criteria by classifying the selected papers into (i) clinical level, (ii) robust candidate and
+(iii) proof of concept applications. Interestingly, not a single one of the reviewed papers was classified as a
+“clinical level” study. Almost 39% of the articles achieved a “robust candidate” and as many as 61% a “proof of
+concept” status. In summary, deep learning in spatiotemporal cardiac imaging is still strongly research-oriented
+and its implementation in clinical application still requires considerable efforts. Challenges that need to be
+addressed are the quality of datasets together with clinical verification and validation of the performance achieved
+by the used method.
+  authors: Karen Andrea Lara Hernandez, Theresa Rienmüller, Daniela Baumgartner, Christian Baumgartner
   link:
     url: https://www.sciencedirect.com/science/article/pii/S001048252030531X
     display: Computers in Biology and Medicine
