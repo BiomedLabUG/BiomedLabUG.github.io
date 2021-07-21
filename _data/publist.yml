@@ -1,10 +1,6 @@
 - title: "Deep learning in spatiotemporal cardiac imaging: A review of methodologies and clinical usability"
   image: compinBiology.jpg
-  description: Review on clinical applications, quality of datasets, preprocessing
-and annotation, learning methods and training strategy, and test performance. Clinical usability was evaluated based on these criteria by classifying the selected papers into (i) clinical level, (ii) robust candidate and (iii) proof of concept applications. In summary, deep learning in spatiotemporal cardiac imaging is still strongly research-oriented
-and its implementation in clinical application still requires considerable efforts. Challenges that need to be
-addressed are the quality of datasets together with clinical verification and validation of the performance achieved
-by the used method.
+  description: "Review on clinical applications, quality of datasets, preprocessing and annotation, learning methods and training strategy, and test performance. Clinical usability was evaluated based on these criteria by classifying the selected papers into (i) clinical level, (ii) robust candidate and (iii) proof of concept applications. In summary, deep learning in spatiotemporal cardiac imaging is still strongly research-oriented and its implementation in clinical application still requires considerable efforts. Challenges that need to be addressed are the quality of datasets together with clinical verification and validation of the performance achieved by the used method."
   authors: Karen Andrea Lara Hernandez, Theresa Rienmüller, Daniela Baumgartner, Christian Baumgartner
   link:
     url: https://www.sciencedirect.com/science/article/pii/S001048252030531X
