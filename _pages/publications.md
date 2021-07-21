@@ -11,7 +11,7 @@ permalink: /publications/
 
 ## Group highlights
 
-(For a full list of publications and patents see [below](#full-list-of-publications) or go to [Google Scholar](https://scholar.google.ch/citations?user=TqxYWZsAAAAJ), [ResearcherID](https://www.researcherid.com/rid/D-7763-2012))
+(For a full list of publications see [below](#full-list-of-publications), [ORCID](https://orcid.org/0000-0002-9787-637X))
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
