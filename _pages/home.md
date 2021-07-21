@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-We are a research group at the [Galileo University](http://www.galileo.edu). Our research areas include Diagnostic Images and Artificial Intelligence, Medical Hardware and Prognostic and Pronostic Models.
+We are a research group at the [Galileo University](http://www.galileo.edu). Our research areas include Medical Imaging and Artificial Intelligence and Low cost Medical Devices.
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
