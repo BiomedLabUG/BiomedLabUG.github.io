@@ -21,7 +21,7 @@ We are a research group at the [Galileo University](http://www.galileo.edu). Our
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/galileo-edificio-comp.jpg" alt="Slide 0" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/galileo.jpg" alt="Slide 0" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/team.jpg" alt="Slide 1" />
@@ -30,7 +30,7 @@ We are a research group at the [Galileo University](http://www.galileo.edu). Our
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/research.jpg" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/conferences.jpg" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Conference.JPG" alt="Slide 3" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
