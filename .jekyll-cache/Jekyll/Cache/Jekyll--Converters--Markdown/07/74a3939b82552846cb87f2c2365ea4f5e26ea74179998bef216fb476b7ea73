@@ -1,0 +1,45 @@
+I"�<h1 id="publications">Publications</h1>
+
+<h2 id="group-highlights">Group highlights</h2>
+
+<p>(For a full list of publications see <a href="#full-list-of-publications">below</a>, <a href="https://orcid.org/0000-0002-9787-637X">ORCID</a>)</p>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <div class="well">
+      <pubtit>Deep learning in spatiotemporal cardiac imaging: A review of methodologies and clinical usability</pubtit>
+      <p><img src="/images/pubpic/compinBiology.jpg" class="img-responsive" width="33%" style="float: left" /></p>
+      <p>Review on clinical applications, quality of datasets, preprocessing and annotation, learning methods and training strategy, and test performance. Clinical usability was evaluated based on these criteria by classifying the selected papers into (i) clinical level, (ii) robust candidate and (iii) proof of concept applications. In summary, deep learning in spatiotemporal cardiac imaging is still strongly research-oriented and its implementation in clinical application still requires considerable efforts. Challenges that need to be addressed are the quality of datasets together with clinical verification and validation of the performance achieved by the used method.</p>
+      <p><em>Karen Andrea Lara Hernandez, Theresa Rienmüller, Daniela Baumgartner, Christian Baumgartner</em></p>
+      <p><strong><a href="https://www.sciencedirect.com/science/article/pii/S001048252030531X">Computers in Biology and Medicine</a></strong></p>
+      <p class="text-danger"><strong> </strong></p>
+      <p> </p>
+    </div>
+  </div>
+
+  <div class="col-sm-6 clearfix">
+    <div class="well">
+      <pubtit>Deep Learning Based Image Registration in Dynamic Cardiac CT using a Recursive Cascade Network approach</pubtit>
+      <p><img src="/images/pubpic/reg.png" class="img-responsive" width="33%" style="float: left" /></p>
+      <p>Registration of dynamic CT image se- quences is a necessary preprocessing step for accu- rate assessment of multiple (patho)physiological determinants in the heart such as myocardial perfu- sion. In this work we present a recursive-cascade- network approach for deformable image registration using data from myocardial perfusion CT studies. A contrast-agent dependent loss function was intro- duced which enabled us to further improve the accuracy of sequence registration. In addition, different network configurations were evaluated, showing a good trade-off between spatial registra- tion accuracy and image quality.</p>
+      <p><em>Karen Andrea Lara, Ivan Juárez, Michaelle Perez, Theresa. Rienmüller, Christian Baumgartner</em></p>
+      <p><strong><a href="https://oegbmt2021.tugraz.at/program.html">ÖGBMT Jahrestagung 2021</a></strong></p>
+      <p class="text-danger"><strong> </strong></p>
+      <p> </p>
+    </div>
+  </div>
+
+</div>
+
+<p>   </p>
+
+<h2 id="full-list-of-publications">Full List of publications</h2>
+
+<p>Deep learning in spatiotemporal cardiac imaging: A review of methodologies and clinical usability <br />
+  <em>Karen Andrea Lara Hernandez, Theresa Rienmüller, Daniela Baumgartner, Christian Baumgartner </em><br /><a href="https://www.sciencedirect.com/science/article/pii/S001048252030531X">Computers in Biology and Medicine</a></p>
+
+<p>Deep Learning Based Image Registration in Dynamic Cardiac CT using a Recursive Cascade Network approach <br />
+  <em>Karen Andrea Lara, Ivan Juárez, Michaelle Perez, Theresa. Rienmüller, Christian Baumgartner </em><br /><a href="https://oegbmt2021.tugraz.at/program.html">ÖGBMT Jahrestagung 2021</a></p>
+
+:ET

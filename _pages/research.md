@@ -7,23 +7,27 @@ permalink: /research/
 ---
 
 # Research
-
-Our overarching goal is to explore and understand new quantum states of electronic matter on the atomic scale. To do so, we use and develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom.
-
-Our goal is to build instruments and develop techniques that enable us to address the questions we find most interesting. This is possible thanks also to Milan's broad background with different research themes and technologies: he learned his trade in [Seamus Davis’ SI-STM lab](http://davisgroup.lassp.cornell.edu/) and with [Felix Baumberger](http://dpmc.unige.ch/gr_baumberger/index.html), and later moved as an [ETH fellow](http://www.ethfellows.ethz.ch/) to [Andreas Wallraff’s qudev lab](http://www.qudev.ethz.ch/) where he investigated coupled cavity arrays in circuit QED. We further have group members with different background and interests, working together on physics and instrumentation.
-
 Here are some themes and techniques that we currently work on:
 
-**Detection and Classification of Hemorrhagic Cerebrovascular Diseases using Computed Tomography.** We have developed a novel cryogenic MHz amplifier that allows us to measure not only the average tunneling current, but also its fluctuation! This has many applications: one can detect the fluctuations of the electronic states, peculiar tunneling processes, and shot noise. We have used this instrument to discover charge trapping in the insulating layer of the cuprates, connected to the c-axis mystery, and to measure the doubling of the charge due to Andreev processes to the superfluid in a lead sample.
+**Detection and Classification of Hemorrhagic Cerebrovascular Diseases using Computed Tomography.** 
+![]({{ site.url }}{{ site.baseurl }}/images/respic/brainbleed.jpg){: style="width: 250px; float: left; margin: 0px  10px"}
+
+The project aims to design and implement a computer-assisted diagnostic tool that allows early detection and classification of hemorrhages from CT images, using convolutional networks and methods for interpretability as a first approximation to unsupervised localization. of hemorrhages.
+
+<br><br><br><br><br><br>
+
+**Early Detection of Ischemic Cerebrovascular Events using Computed Tomography.** 
+![]({{ site.url }}{{ site.baseurl }}/images/respic/isquemic.gif){: style="width: 250px; float: left; margin: 0px  10px"}
+
+The project aims at the early detection and localization of ischemic cerebrovascular events using computed tomography images without contrast medium. The tool is based on the design and implementation of convolutional network architectures that allow the semantic segmentation of the areas damaged by acute strokes.
 
 
-**Early Detection of Ischemic Cerebrovascular Events using Computed Tomography.** Questions of interest include: (i), How does the Mott state collapse upon doping and how is this related to the complex phase diagram of high-temperature superconductors? (ii), What is the strange metal phase seen in correlated electron systems? Is this an exotic long-range entangled state? What is the mechanism of dissipation in that state? (iii), Why is the transition temperature in high-temperature superconductors so high? We have worked on iridates, rhodates, and cuprates.
+<br><br><br><br><br><br>
 
-**Early Detection of Myocardial Damage Using Computed Tomography of the Heart"**.
-![]({{ site.url }}{{ site.baseurl }}/images/respic/SmartTip.png){: style="width: 250px; float: left; margin: 0px  10px"}
-One of the  projects back from my job-proposal is to develop nanofabricated STM tips. The idea behind these “smart tips” is to use the technologies that were developed over decades in nanofabrication and make them available for scanning probe by using a nano-device instead of the traditional STM tungsten tip. One gains the flexibility of using different functionalities that are known from the fields of nanofabrication and mesoscopic physics. We are collaborating with the group Simon Groeblacher at TU Delft to realize this concept, benefitting from their unparalleled micro/nano fabrication know how.  A prototype of a smart tip is shown to the left. See publications in Microsyst Nanoeng, Nanotechnology, and PRB.
+**Early Detection of Myocardial Damage Using Computed Tomography of the Heart**.
+![]({{ site.url }}{{ site.baseurl }}/images/respic/compinBiology.jpg){: style="width: 250px; float: left; margin: 0px  10px"}
 
+The project consists of the use of Artificial Intelligence for the early detection of myocardial ischemia from Cardiac Computed Tomographs with contrast medium. For this, the objective is to design and implement neural network architectures for the analysis of time series of cardiac volumes that allow the early detection and localization of ischemia.
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/SciPost.png){: style="width: 70%; float: center; margin: 0px"}
 
 ### ... and more.

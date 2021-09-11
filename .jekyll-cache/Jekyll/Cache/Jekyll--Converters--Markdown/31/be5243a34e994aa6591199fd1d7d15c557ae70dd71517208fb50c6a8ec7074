@@ -1,0 +1,24 @@
+I"<h1 id="research">Research</h1>
+<p>Here are some themes and techniques that we currently work on:</p>
+
+<p><strong>Detection and Classification of Hemorrhagic Cerebrovascular Diseases using Computed Tomography.</strong> 
+<img src="/images/respic/brainbleed.jpg" alt="" style="width: 250px; float: left; margin: 0px  10px" /></p>
+
+<p>The project aims to design and implement a computer-assisted diagnostic tool that allows early detection and classification of hemorrhages from CT images, using convolutional networks and methods for interpretability as a first approximation to unsupervised localization. of hemorrhages.</p>
+
+<p><br /><br /><br /><br /><br /><br /></p>
+
+<p><strong>Early Detection of Ischemic Cerebrovascular Events using Computed Tomography.</strong> 
+<img src="/images/respic/isquemic.gif" alt="" style="width: 250px; float: left; margin: 0px  10px" /></p>
+
+<p>Convolutional Neural Networks, Big Data, Interpretability.</p>
+
+<p><br /><br /><br /><br /><br /><br /></p>
+
+<p><strong>Early Detection of Myocardial Damage Using Computed Tomography of the Heart</strong>.
+<img src="/images/respic/compinBiology.jpg" alt="" style="width: 250px; float: left; margin: 0px  10px" /></p>
+
+<p>Convolutional Neural Networks, Image Registration, Segmentation.</p>
+
+<h3 id="-and-more">… and more.</h3>
+:ET

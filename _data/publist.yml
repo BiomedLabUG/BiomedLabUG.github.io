@@ -8,3 +8,13 @@
   highlight: 1
   news2:
 
+- title: "Deep Learning Based Image Registration in Dynamic Cardiac CT using a Recursive Cascade Network approach"
+  image: reg.png
+  description: "Registration of dynamic CT image sequences is a necessary preprocessing step for accurate assessment of multiple (patho)physiological determinants in the heart such as myocardial perfusion. In this work we present a recursive-cascade-network approach for deformable image registration using data from myocardial perfusion CT studies. A contrast-agent dependent loss function was introduced which enabled us to further improve the accuracy of sequence registration. In addition, different network configurations were evaluated, showing a good trade-off between spatial registration accuracy and image quality."
+  authors: Karen Andrea Lara, Ivan Juárez, Michaelle Perez, Theresa. Rienmüller, Christian Baumgartner
+  link:
+    url: https://oegbmt2021.tugraz.at/program.html
+    display: ÖGBMT Jahrestagung 2021
+  highlight: 1
+  news2:
+
